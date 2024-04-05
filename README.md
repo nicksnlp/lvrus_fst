@@ -9,5 +9,5 @@ Includes the following:
 6. A working directory for the translation app.
 
 FUTURE IMPROVEMENTS:
-7. Combine the input and output of Russian and Lativan parsers/analysers, HFST with python code.
+7. Combine the input and output of Russian and Lativan parsers/analysers, HFST with python code.\
 8. Finalise HTML and flask translation app.
