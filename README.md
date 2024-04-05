@@ -8,5 +8,5 @@ Includes the following:
 5. Project report
 6. A working directory for the translation app.
 
-FUTURE IMPROVEMENTS:
+FUTURE IMPROVEMENTS:\
 7. Finalise the translation app, using flask and python.
