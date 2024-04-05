@@ -1,0 +1,42 @@
+! Nikolay Vorontsov, Latvian's Nouns, 7 Jan. 2023
+
+clear stack
+
+read lexc lv.lexc
+
+define Lexicon ;
+
+regex Lexicon ;
+
+echo <<Latvian Vocabulary Nouns Defined>>
+
+echo <<Defining Palatalisation Rules>>
+
+define Palatalisation	p -> p j ,
+   			b -> b j ,
+			m -> m j ,
+			v -> v j ,
+			f -> f j ,
+
+			s n -> š ņ ,
+			z n -> ž ņ ,
+			s l -> š ļ ,
+			z l -> ž ļ ,
+			l n -> ļ ņ ,
+			l l -> ļ ļ ,
+			n n -> ņ ņ ,
+			s t -> š ,
+
+			c -> č ,
+			d -> ž ,
+			c -> č ,
+			d -> ž ,
+			l -> ļ ,
+			n -> ņ ,
+			s -> š ,
+			t -> š ,
+			z -> ž ||  _  %^J ;   
+
+define CleanUp		%^J -> 0 ;
+
+read regex Lexicon .o. Palatalisation .o. CleanUp ;

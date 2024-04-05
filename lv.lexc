@@ -1,0 +1,226 @@
+! Nikolay Vorontsov, Latvian Nouns, 7 Jan. 2023
+! Word types:
+!		1st masculine: 	galds, vējs + ceļš, kaimiņš, vējš, karš
+! 		2nd masculine: 	brālis, spogulis, zīmulis + 
+!				a. viesis, personal names with d,t + -is Valdis, Atis
+!				b. akmens, asmens, mēness, rudens, ūdens, zibens (historically -is)
+!				c. *suns (historically -is, but GenSg suņa),
+!		3rd masculine: 	tirgus, ledus, medus, alus, apvidus, klepus, ledus, lietus, medus, tirgus, vidus, viltus -- there is not many of them
+!		4th feminine: 	istaba, laiva, ēka
+!				4a. masculine: junga, lauva, puika (DatSG is different)
+!		5th feminine: 	upe, ābele, glāze
+! 		6th feminine:	acs, nakts, valsts
+
+
+Multichar_Symbols
+	+NomSg +AccSg +GenSg +LocSg +DatSg +InstSg
+	+NomPl +AccPl +GenPl +LocPl +DatPl +InstPl
+	%^J
+
+LEXICON Root
+        Nouns ;
+!	Verbs ;
+
+LEXICON Nouns
+gald		1-decl ;
+
+ceļ		1a-decl ;
+
+brāl		2-decl ;
+
+Vald		2a-decl ;	
+
+akmen		2b-decl ;
+
+sun		2c-decl ;
+
+tirg		3-decl ;
+
+istab		4-decl ;
+
+jung		4a-decl ;
+
+up		5-decl ;
+
+nakt		6-decl ;
+
+!more words to align with Russian grammar
+
+durv 6-decl ;
+rūpnīc 4-decl ;
+naz 2-decl ;
+portfel 2-decl ;
+log 1-decl ;
+jūr 4-decl ;
+rok 4-decl ;
+nedēļ 4-decl ;
+
+
+!Noun declension in Latvian NB: instrumentalis always with ar-preposition, Moprhonological changes in 
+LEXICON 1-decl
++NomSg:s			# ;
++AccSg:u			# ; 
++GenSg:a			# ;
++LocSg:ā			# ;
++DatSg:am			# ;
++InstSg:u			# ;
+
++NomPl:i			# ;
++AccPl:us			# ; 
++GenPl:u			# ;
++LocPl:os			# ;
++DatPl:iem			# ;
++InstPl:iem			# ;
+
+LEXICON 1a-decl
++NomSg:š			# ;
++AccSg:u			# ; 
++GenSg:a			# ;
++LocSg:ā			# ;
++DatSg:am			# ;
++InstSg:u			# ;
+
++NomPl:i			# ;
++AccPl:us			# ; 
++GenPl:u			# ;
++LocPl:os			# ;
++DatPl:iem			# ;
++InstPl:iem			# ;
+
+LEXICON 2-decl
++NomSg:is			# ;
++AccSg:i			# ; 
++GenSg:^Ja			# ;
++LocSg:ī			# ;
++DatSg:im			# ;
++InstSg:i			# ;
+
++NomPl:^Ji			# ;
++AccPl:^Jus			# ; 
++GenPl:^Ju			# ;
++LocPl:^Jos			# ;
++DatPl:^Jiem			# ; 
++InstPl:^Jiem			# ;
+
+
+LEXICON 2a-decl
++NomSg:is			# ;
++AccSg:i			# ; 
++GenSg:a			# ;
++LocSg:ī			# ;
++DatSg:im			# ;
++InstSg:i			# ;
+
++NomPl:i			# ;
++AccPl:us			# ; 
++GenPl:u			# ;
++LocPl:os			# ;
++DatPl:iem			# ; 
++InstPl:iem			# ;
+
+LEXICON 2b-decl
++NomSg:s			# ;
++AccSg:i			# ; 
++GenSg:s			# ;
++LocSg:ī			# ;
++DatSg:im			# ;
++InstSg:i			# ;
+
++NomPl:^Ji			# ;
++AccPl:^Jus			# ; 
++GenPl:^Ju			# ;
++LocPl:^Jos			# ;
++DatPl:^Jiem			# ; 
++InstPl:^Jiem			# ;
+
+LEXICON 2c-decl
++NomSg:s			# ;
++AccSg:i			# ; 
++GenSg:^Ja			# ;
++LocSg:ī			# ;
++DatSg:im			# ;
++InstSg:i			# ;
+
++NomPl:^Ji			# ;
++AccPl:^Jus			# ; 
++GenPl:^Ju			# ;
++LocPl:^Jos			# ;
++DatPl:^Jiem			# ; 
++InstPl:^Jiem			# ;
+
+LEXICON 3-decl
++NomSg:us			# ;
++AccSg:u			# ; 
++GenSg:us			# ;
++LocSg:ū			# ;
++DatSg:um			# ;
++InstSg:u			# ;
+
++NomPl:i			# ;
++AccPl:us			# ; 
++GenPl:u			# ;
++LocPl:os			# ;
++DatPl:iem			# ;
++InstPl:iem			# ;
+
+LEXICON 4-decl
++NomSg:a			# ;
++AccSg:u			# ; 
++GenSg:as			# ;
++LocSg:ā			# ;
++DatSg:ai			# ;
++InstSg:u			# ;
+
++NomPl:as			# ;
++AccPl:as			# ; 
++GenPl:u			# ;
++LocPl:ās			# ;
++DatPl:ām			# ;
++InstPl:ām			# ;
+
+LEXICON 4a-decl
++NomSg:a			# ;
++AccSg:u			# ; 
++GenSg:am			# ;
++LocSg:ā			# ;
++DatSg:ai			# ;
++InstSg:u			# ;
+
++NomPl:as			# ;
++AccPl:as			# ; 
++GenPl:u			# ;
++LocPl:ās			# ;
++DatPl:ām			# ;
++InstPl:ām			# ;
+
+LEXICON 5-decl
++NomSg:e			# ;
++AccSg:i			# ; 
++GenSg:es			# ;
++LocSg:ē			# ;
++DatSg:ei			# ;
++InstSg:i			# ;
+
++NomPl:es			# ;
++AccPl:es			# ; 
++GenPl:^Ju			# ;
++LocPl:ēs			# ;
++DatPl:ēm			# ;
++InstPl:ēm			# ;
+
+LEXICON 6-decl
++NomSg:s			# ;
++AccSg:i			# ; 
++GenSg:s			# ;
++LocSg:ī			# ;
++DatSg:ij			# ;
++InstSg:i			# ;
+
++NomPl:is			# ;
++AccPl:is			# ; 
++GenPl:^Ju			# ;
++LocPl:īs			# ;
++DatPl:īm			# ;
++InstPl:īm			# ;
+
+END

@@ -1,0 +1,33 @@
+! Nikolay Vorontsov, Russian Nouns, 7 Jan. 2023
+
+clear stack
+
+read lexc rus.lexc
+
+define Lexicon ;
+
+regex Lexicon ;
+
+echo <<Russian Vocabulary Nouns Defined>>
+
+echo <<Defining Phonological-Writing Rules>>
+
+define CONS [ й | ц | к | н | г | ш | щ | з | х | ф | в | п | р | л | д | ж | ч | с | м | т | б ] ;
+
+define RuleKGH	ы -> и || [ к | г | х ] %^ _ ; 
+
+define RuleCHZHSCH ы -> и ,
+		   я -> а ,
+		   ю -> у || [ ч | ж | ш | щ ] %^ _ ;
+
+define RuleOGenii e -> i || i %^ _ ; ! morpheme boundary to clean-up later
+
+define BeglyjOE		%^О -> о ,
+			%^Е -> е || _ CONS %^ .#. ;
+
+define BeglyjRemove 	%^О -> 0 ,
+			%^Е -> 0 ;
+
+define CleanUp %^ -> 0 ;
+
+read regex Lexicon .o. RuleKGH .o. RuleCHZHSCH .o. RuleOGenii .o. BeglyjOE .o. BeglyjRemove .o. CleanUp ;

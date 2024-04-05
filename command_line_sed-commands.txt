@@ -1,0 +1,13 @@
+
+
+
+
+cat wordlist.lv.input.txt | hfst-lookup lv-rules.analyzer.hfst > test-analyser.lv.txt
+cat test-analyser.lv.txt | sed -nE  's/.+(\b.+\+.+\b)[[:blank:]]*[[:alnum:]]+\.[[:alnum:]]+/\1 /gp' > wordlist.lv.output.txt
+
+cat wordlist.lv.output.txt | hfst-lookup LV2RUS.translator.hfst > lv2rus-middle.txt
+
+cat lv2rus-middle.txt | hfst-lookup rus-rules.generator.hfst
+
+
+cat try-this.txt | hfst-lookup rus-rules.generator.hfst 

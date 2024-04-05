@@ -1,0 +1,25 @@
+clear stack
+
+read regex 	[ g a l d -> с т о л ] ;
+read regex 	[ c e ļ -> п у т ] ;
+read regex 	[ b r ā l -> б р а т ] ;
+read regex 	[ V a l d -> В л а д ] ;
+read regex 	[ a k m e n -> к а м %^Е н ] ;
+read regex 	[ s u n -> с о б а к ] ;
+read regex 	[ t i r g -> р ы н %^О к ] ;
+read regex 	[ i s t a b -> к о м н а т ] ;
+read regex 	[ j u n g -> я р м ] ;
+read regex 	[ u p -> р е к ] ;
+read regex 	[ n a k t -> н о ч ] ;
+read regex 	[ d u r v -> д в е р ] ;
+read regex 	[ r ū p n ī c -> з а в о д ] ;
+read regex 	[ n a z -> н о ж и ч %^Е к ] ;
+read regex 	[ p o r t f e l -> п о р т ф е л ] ;
+read regex 	[ l o g -> о к %^О н ] ;
+read regex 	[ j ū r -> м о р ] ;
+read regex 	[ r o k -> р у к ] ;
+read regex 	[ n e d ē ļ -> н е д е л ] ;
+
+
+
+

@@ -1,0 +1,178 @@
+! Nikolay Vorontsov, Russian Nouns, 7 Jan. 2023
+
+!Declensions (Zaliznjak, Polivanova - simplified), for now no adjective-style declension endings, palatalisation is treated according to cyrillic-alphabet (can be other solutions), case selection for animate vs. non-animate nouns is left for syntax:
+!
+!1m: путь putj
+!1f: дверь dverj
+!
+!2m: завод zavod
+!2m-pal: портфель portfelj
+!
+!2n: окно okno
+!2n-pal: море more
+!
+!2f: рука ruka
+!2f-pal: неделя nedelja
+!
+! Words to add: other sub-types, see Zaliznjak
+
+
+Multichar_Symbols
+	+NomSg +AccSg +GenSg +LocSg +DatSg +InstSg
+	+NomPl +AccPl +GenPl +LocPl +DatPl +InstPl
+	%^О
+	%^Е
+
+LEXICON Root
+        Nouns ;
+!	Verbs ;
+
+LEXICON Nouns
+	пут 1m ;
+	двер 1f ;
+
+	завод 2m ;
+	ножич^Ек 2m ;
+	портфел 2m-pal ;
+
+	ок^Он 2n ;
+	мор 2n-pal ;
+
+	рук 2f ;
+	недел 2f-pal ;
+
+!more words to align with Latvian grammar
+стол 2m ;
+брат 2m ;
+Влад 2m ;
+кам^Ен 2m-pal ;
+собак 2f ;
+рын^Ок 2m ;
+комнат 2f ;
+ярм 2n ;
+рек 2f ;
+ноч 1f ;
+
+
+
+LEXICON 1m
++NomSg:^ь			# ;
++AccSg:^ь			# ; 
++GenSg:^и			# ;
++LocSg:^и			# ;
++DatSg:^и			# ;
++InstSg:^ем			# ;
+
++NomPl:^и			# ;
++AccPl:^и			# ; 
++GenPl:^ей			# ;
++LocPl:^ях			# ;
++DatPl:^ям			# ;
++InstPl:^ями			# ;
+
+LEXICON 1f
++NomSg:^ь			# ;
++AccSg:^ь			# ; 
++GenSg:^и			# ;
++LocSg:^и			# ;
++DatSg:^и			# ;
++InstSg:^ью			# ;
+
++NomPl:^и			# ;
++AccPl:^и			# ; 
++GenPl:^ей			# ;
++LocPl:^ях			# ;
++DatPl:^ям			# ;
++InstPl:^ями			# ; !alternate form ьми
+
+LEXICON 2m
++NomSg:^0			# ;
++AccSg:^0			# ; 
++GenSg:^а			# ;
++LocSg:^е			# ;
++DatSg:^у			# ;
++InstSg:^ом			# ;
+
++NomPl:^ы			# ;
++AccPl:^ы			# ; 
++GenPl:^ов			# ;
++LocPl:^ах			# ;
++DatPl:^ам			# ;
++InstPl:^ами			# ; 
+
+LEXICON 2m-pal
++NomSg:^ь			# ;
++AccSg:^ь			# ; 
++GenSg:^я			# ;
++LocSg:^е			# ;
++DatSg:^ю			# ;
++InstSg:^ем			# ;
+
++NomPl:^и			# ;
++AccPl:^и			# ; 
++GenPl:^ей			# ; !alternate form ев
++LocPl:^ях			# ;
++DatPl:^ям			# ;
++InstPl:^ями			# ; 
+
+LEXICON 2n
++NomSg:^о			# ;
++AccSg:^о			# ; 
++GenSg:^а			# ;
++LocSg:^е			# ;
++DatSg:^у			# ;
++InstSg:^ом			# ;
+
++NomPl:^а			# ;
++AccPl:^а			# ; 
++GenPl:^0			# ;
++LocPl:^ах			# ;
++DatPl:^ам			# ;
++InstPl:^ами			# ; 
+
+LEXICON 2n-pal
++NomSg:^е			# ;
++AccSg:^е			# ; 
++GenSg:^я			# ;
++LocSg:^е			# ;
++DatSg:^ю			# ;
++InstSg:^ем			# ;
+
++NomPl:^я			# ;
++AccPl:^я			# ; 
++GenPl:^ей			# ;  !alternate form ь
++LocPl:^ях			# ;
++DatPl:^ям			# ;
++InstPl:^ями			# ;
+
+LEXICON 2f
++NomSg:^а			# ;
++AccSg:^у			# ; 
++GenSg:^ы			# ;
++LocSg:^е			# ;
++DatSg:^е			# ;
++InstSg:^ой			# ; !alternate form ою
+
++NomPl:^ы			# ;
++AccPl:^ы			# ; 
++GenPl:^0			# ;
++LocPl:^ах			# ;
++DatPl:^ам			# ;
++InstPl:^ами			# ; 
+
+LEXICON 2f-pal
++NomSg:^я			# ;
++AccSg:^ю			# ; 
++GenSg:^и			# ;
++LocSg:^е			# ;
++DatSg:^е			# ;
++InstSg:^ей			# ; !alternate form ею
+
++NomPl:^и			# ;
++AccPl:^и			# ; 
++GenPl:^ь			# ; !alternate form ей
++LocPl:^ях			# ;
++DatPl:^ям			# ;
++InstPl:^ями			# ; 
+
+END

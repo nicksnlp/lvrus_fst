@@ -1,0 +1,456 @@
+Vald+GenSg	 	Влад+GenSg	 	0.000000
+
+Vald+AccSg	 	Влад+AccSg	 	0.000000
+
+Vald+InstSg	 	Влад+InstSg	 	0.000000
+
+Vald+NomPl	 	Влад+NomPl	 	0.000000
+
+Vald+DatPl	 	Влад+DatPl	 	0.000000
+
+Vald+InstPl	 	Влад+InstPl	 	0.000000
+
+Vald+DatSg	 	Влад+DatSg	 	0.000000
+
+Vald+NomSg	 	Влад+NomSg	 	0.000000
+
+Vald+LocPl	 	Влад+LocPl	 	0.000000
+
+Vald+GenPl	 	Влад+GenPl	 	0.000000
+
+Vald+AccPl	 	Влад+AccPl	 	0.000000
+
+Vald+LocSg	 	Влад+LocSg	 	0.000000
+
+akmen+AccSg	 	кам^Ен+AccSg	 	0.000000
+
+akmen+InstSg	 	кам^Ен+InstSg	 	0.000000
+
+akmen+DatSg	 	кам^Ен+DatSg	 	0.000000
+
+akmen+GenSg	 	кам^Ен+GenSg	 	0.000000
+
+akmen+NomSg	 	кам^Ен+NomSg	 	0.000000
+
+akmen+LocSg	 	кам^Ен+LocSg	 	0.000000
+
+akmen+NomPl	 	кам^Ен+NomPl	 	0.000000
+
+akmen+DatPl	 	кам^Ен+DatPl	 	0.000000
+
+akmen+InstPl	 	кам^Ен+InstPl	 	0.000000
+
+akmen+LocPl	 	кам^Ен+LocPl	 	0.000000
+
+akmen+GenPl	 	кам^Ен+GenPl	 	0.000000
+
+akmen+AccPl	 	кам^Ен+AccPl	 	0.000000
+
+āl+AccSg	 	āl+AccSg	 	0.000000
+
+āl+InstSg	 	āl+InstSg	 	0.000000
+
+āl+DatSg	 	āl+DatSg	 	0.000000
+
+āl+NomSg	 	āl+NomSg	 	0.000000
+
+āl+LocSg	 	āl+LocSg	 	0.000000
+
+āl+GenSg	 	āl+GenSg	 	0.000000
+
+āl+NomPl	 	āl+NomPl	 	0.000000
+
+āl+DatPl	 	āl+DatPl	 	0.000000
+
+āl+InstPl	 	āl+InstPl	 	0.000000
+
+āl+LocPl	 	āl+LocPl	 	0.000000
+
+āl+GenPl	 	āl+GenPl	 	0.000000
+
+āl+AccPl	 	āl+AccPl	 	0.000000
+
+ļ+GenSg	 	ļ+GenSg	 	0.000000
+
+ļ+DatSg	 	ļ+DatSg	 	0.000000
+
+ļ+NomPl	 	ļ+NomPl	 	0.000000
+
+ļ+DatPl	 	ļ+DatPl	 	0.000000
+
+ļ+InstPl	 	ļ+InstPl	 	0.000000
+
+ļ+LocPl	 	ļ+LocPl	 	0.000000
+
+ļ+AccSg	 	ļ+AccSg	 	0.000000
+
+ļ+GenPl	 	ļ+GenPl	 	0.000000
+
+ļ+InstSg	 	ļ+InstSg	 	0.000000
+
+ļ+AccPl	 	ļ+AccPl	 	0.000000
+
+ļ+LocSg	 	ļ+LocSg	 	0.000000
+
+ļ+NomSg	 	ļ+NomSg	 	0.000000
+
+durv+AccSg	 	двер+AccSg	 	0.000000
+
+durv+InstSg	 	двер+InstSg	 	0.000000
+
+durv+DatSg	 	двер+DatSg	 	0.000000
+
+durv+AccPl	 	двер+AccPl	 	0.000000
+
+durv+NomPl	 	двер+NomPl	 	0.000000
+
+durv+GenPl	 	двер+GenPl	 	0.000000
+
+durv+GenSg	 	двер+GenSg	 	0.000000
+
+durv+NomSg	 	двер+NomSg	 	0.000000
+
+durv+LocSg	 	двер+LocSg	 	0.000000
+
+durv+DatPl	 	двер+DatPl	 	0.000000
+
+durv+InstPl	 	двер+InstPl	 	0.000000
+
+durv+LocPl	 	двер+LocPl	 	0.000000
+
+gald+GenSg	 	стол+GenSg	 	0.000000
+
+gald+DatSg	 	стол+DatSg	 	0.000000
+
+gald+NomPl	 	стол+NomPl	 	0.000000
+
+gald+DatPl	 	стол+DatPl	 	0.000000
+
+gald+InstPl	 	стол+InstPl	 	0.000000
+
+gald+LocPl	 	стол+LocPl	 	0.000000
+
+gald+NomSg	 	стол+NomSg	 	0.000000
+
+gald+AccSg	 	стол+AccSg	 	0.000000
+
+gald+GenPl	 	стол+GenPl	 	0.000000
+
+gald+InstSg	 	стол+InstSg	 	0.000000
+
+gald+AccPl	 	стол+AccPl	 	0.000000
+
+gald+LocSg	 	стол+LocSg	 	0.000000
+
+istab+NomSg	 	комнат+NomSg	 	0.000000
+
+istab+DatSg	 	комнат+DatSg	 	0.000000
+
+istab+AccPl	 	комнат+AccPl	 	0.000000
+
+istab+GenSg	 	комнат+GenSg	 	0.000000
+
+istab+NomPl	 	комнат+NomPl	 	0.000000
+
+istab+AccSg	 	комнат+AccSg	 	0.000000
+
+istab+GenPl	 	комнат+GenPl	 	0.000000
+
+istab+InstSg	 	комнат+InstSg	 	0.000000
+
+istab+LocSg	 	комнат+LocSg	 	0.000000
+
+istab+DatPl	 	комнат+DatPl	 	0.000000
+
+istab+InstPl	 	комнат+InstPl	 	0.000000
+
+istab+LocPl	 	комнат+LocPl	 	0.000000
+
+jung+NomSg	 	ярм+NomSg	 	0.000000
+
+jung+DatSg	 	ярм+DatSg	 	0.000000
+
+jung+GenSg	 	ярм+GenSg	 	0.000000
+
+jung+AccPl	 	ярм+AccPl	 	0.000000
+
+jung+NomPl	 	ярм+NomPl	 	0.000000
+
+jung+AccSg	 	ярм+AccSg	 	0.000000
+
+jung+GenPl	 	ярм+GenPl	 	0.000000
+
+jung+InstSg	 	ярм+InstSg	 	0.000000
+
+jung+LocSg	 	ярм+LocSg	 	0.000000
+
+jung+DatPl	 	ярм+DatPl	 	0.000000
+
+jung+InstPl	 	ярм+InstPl	 	0.000000
+
+jung+LocPl	 	ярм+LocPl	 	0.000000
+
+ūr+NomSg	 	ūr+NomSg	 	0.000000
+
+ūr+DatSg	 	ūr+DatSg	 	0.000000
+
+ūr+AccPl	 	ūr+AccPl	 	0.000000
+
+ūr+GenSg	 	ūr+GenSg	 	0.000000
+
+ūr+NomPl	 	ūr+NomPl	 	0.000000
+
+ūr+AccSg	 	ūr+AccSg	 	0.000000
+
+ūr+GenPl	 	ūr+GenPl	 	0.000000
+
+ūr+InstSg	 	ūr+InstSg	 	0.000000
+
+ūr+LocSg	 	ūr+LocSg	 	0.000000
+
+ūr+DatPl	 	ūr+DatPl	 	0.000000
+
+ūr+InstPl	 	ūr+InstPl	 	0.000000
+
+ūr+LocPl	 	ūr+LocPl	 	0.000000
+
+log+GenSg	 	ок^Он+GenSg	 	0.000000
+
+log+DatSg	 	ок^Он+DatSg	 	0.000000
+
+log+NomPl	 	ок^Он+NomPl	 	0.000000
+
+log+DatPl	 	ок^Он+DatPl	 	0.000000
+
+log+InstPl	 	ок^Он+InstPl	 	0.000000
+
+log+LocPl	 	ок^Он+LocPl	 	0.000000
+
+log+NomSg	 	ок^Он+NomSg	 	0.000000
+
+log+AccSg	 	ок^Он+AccSg	 	0.000000
+
+log+GenPl	 	ок^Он+GenPl	 	0.000000
+
+log+InstSg	 	ок^Он+InstSg	 	0.000000
+
+log+AccPl	 	ок^Он+AccPl	 	0.000000
+
+log+LocSg	 	ок^Он+LocSg	 	0.000000
+
+nakt+AccSg	 	ноч+AccSg	 	0.000000
+
+nakt+InstSg	 	ноч+InstSg	 	0.000000
+
+nakt+DatSg	 	ноч+DatSg	 	0.000000
+
+nakt+AccPl	 	ноч+AccPl	 	0.000000
+
+nakt+NomPl	 	ноч+NomPl	 	0.000000
+
+nakt+GenSg	 	ноч+GenSg	 	0.000000
+
+nakt+NomSg	 	ноч+NomSg	 	0.000000
+
+nakt+LocSg	 	ноч+LocSg	 	0.000000
+
+nakt+DatPl	 	ноч+DatPl	 	0.000000
+
+nakt+InstPl	 	ноч+InstPl	 	0.000000
+
+nakt+LocPl	 	ноч+LocPl	 	0.000000
+
+nakt+GenPl	 	ноч+GenPl	 	0.000000
+
+naz+AccSg	 	ножич^Ек+AccSg	 	0.000000
+
+naz+InstSg	 	ножич^Ек+InstSg	 	0.000000
+
+naz+DatSg	 	ножич^Ек+DatSg	 	0.000000
+
+naz+NomSg	 	ножич^Ек+NomSg	 	0.000000
+
+naz+LocSg	 	ножич^Ек+LocSg	 	0.000000
+
+naz+GenSg	 	ножич^Ек+GenSg	 	0.000000
+
+naz+NomPl	 	ножич^Ек+NomPl	 	0.000000
+
+naz+DatPl	 	ножич^Ек+DatPl	 	0.000000
+
+naz+InstPl	 	ножич^Ек+InstPl	 	0.000000
+
+naz+LocPl	 	ножич^Ек+LocPl	 	0.000000
+
+naz+GenPl	 	ножич^Ек+GenPl	 	0.000000
+
+naz+AccPl	 	ножич^Ек+AccPl	 	0.000000
+
+ļ+NomSg	 	ļ+NomSg	 	0.000000
+
+ļ+DatSg	 	ļ+DatSg	 	0.000000
+
+ļ+AccPl	 	ļ+AccPl	 	0.000000
+
+ļ+GenSg	 	ļ+GenSg	 	0.000000
+
+ļ+NomPl	 	ļ+NomPl	 	0.000000
+
+ļ+AccSg	 	ļ+AccSg	 	0.000000
+
+ļ+GenPl	 	ļ+GenPl	 	0.000000
+
+ļ+InstSg	 	ļ+InstSg	 	0.000000
+
+ļ+LocSg	 	ļ+LocSg	 	0.000000
+
+ļ+DatPl	 	ļ+DatPl	 	0.000000
+
+ļ+InstPl	 	ļ+InstPl	 	0.000000
+
+ļ+LocPl	 	ļ+LocPl	 	0.000000
+
+portfel+AccSg	 	портфел+AccSg	 	0.000000
+
+portfel+InstSg	 	портфел+InstSg	 	0.000000
+
+portfel+DatSg	 	портфел+DatSg	 	0.000000
+
+portfel+NomSg	 	портфел+NomSg	 	0.000000
+
+portfel+LocSg	 	портфел+LocSg	 	0.000000
+
+portfel+GenSg	 	портфел+GenSg	 	0.000000
+
+portfel+NomPl	 	портфел+NomPl	 	0.000000
+
+portfel+DatPl	 	портфел+DatPl	 	0.000000
+
+portfel+InstPl	 	портфел+InstPl	 	0.000000
+
+portfel+LocPl	 	портфел+LocPl	 	0.000000
+
+portfel+GenPl	 	портфел+GenPl	 	0.000000
+
+portfel+AccPl	 	портфел+AccPl	 	0.000000
+
+rok+NomSg	 	рук+NomSg	 	0.000000
+
+rok+DatSg	 	рук+DatSg	 	0.000000
+
+rok+AccPl	 	рук+AccPl	 	0.000000
+
+rok+GenSg	 	рук+GenSg	 	0.000000
+
+rok+NomPl	 	рук+NomPl	 	0.000000
+
+rok+AccSg	 	рук+AccSg	 	0.000000
+
+rok+GenPl	 	рук+GenPl	 	0.000000
+
+rok+InstSg	 	рук+InstSg	 	0.000000
+
+rok+LocSg	 	рук+LocSg	 	0.000000
+
+rok+DatPl	 	рук+DatPl	 	0.000000
+
+rok+InstPl	 	рук+InstPl	 	0.000000
+
+rok+LocPl	 	рук+LocPl	 	0.000000
+
+īc+NomSg	 	īc+NomSg	 	0.000000
+
+īc+DatSg	 	īc+DatSg	 	0.000000
+
+īc+AccPl	 	īc+AccPl	 	0.000000
+
+īc+GenSg	 	īc+GenSg	 	0.000000
+
+īc+NomPl	 	īc+NomPl	 	0.000000
+
+īc+AccSg	 	īc+AccSg	 	0.000000
+
+īc+GenPl	 	īc+GenPl	 	0.000000
+
+īc+InstSg	 	īc+InstSg	 	0.000000
+
+īc+LocSg	 	īc+LocSg	 	0.000000
+
+īc+DatPl	 	īc+DatPl	 	0.000000
+
+īc+InstPl	 	īc+InstPl	 	0.000000
+
+īc+LocPl	 	īc+LocPl	 	0.000000
+
+sun+AccSg	 	собак+AccSg	 	0.000000
+
+sun+InstSg	 	собак+InstSg	 	0.000000
+
+sun+DatSg	 	собак+DatSg	 	0.000000
+
+sun+NomSg	 	собак+NomSg	 	0.000000
+
+sun+LocSg	 	собак+LocSg	 	0.000000
+
+sun+GenSg	 	собак+GenSg	 	0.000000
+
+sun+NomPl	 	собак+NomPl	 	0.000000
+
+sun+DatPl	 	собак+DatPl	 	0.000000
+
+sun+InstPl	 	собак+InstPl	 	0.000000
+
+sun+LocPl	 	собак+LocPl	 	0.000000
+
+sun+GenPl	 	собак+GenPl	 	0.000000
+
+sun+AccPl	 	собак+AccPl	 	0.000000
+
+tirg+NomPl	 	рын^Ок+NomPl	 	0.000000
+
+tirg+DatPl	 	рын^Ок+DatPl	 	0.000000
+
+tirg+InstPl	 	рын^Ок+InstPl	 	0.000000
+
+tirg+LocPl	 	рын^Ок+LocPl	 	0.000000
+
+tirg+AccSg	 	рын^Ок+AccSg	 	0.000000
+
+tirg+GenPl	 	рын^Ок+GenPl	 	0.000000
+
+tirg+InstSg	 	рын^Ок+InstSg	 	0.000000
+
+tirg+DatSg	 	рын^Ок+DatSg	 	0.000000
+
+tirg+AccPl	 	рын^Ок+AccPl	 	0.000000
+
+tirg+GenSg	 	рын^Ок+GenSg	 	0.000000
+
+tirg+NomSg	 	рын^Ок+NomSg	 	0.000000
+
+tirg+LocSg	 	рын^Ок+LocSg	 	0.000000
+
+up+NomSg	 	рек+NomSg	 	0.000000
+
+up+DatSg	 	рек+DatSg	 	0.000000
+
+up+AccPl	 	рек+AccPl	 	0.000000
+
+up+GenSg	 	рек+GenSg	 	0.000000
+
+up+NomPl	 	рек+NomPl	 	0.000000
+
+up+AccSg	 	рек+AccSg	 	0.000000
+
+up+InstSg	 	рек+InstSg	 	0.000000
+
+up+GenPl	 	рек+GenPl	 	0.000000
+
+up+LocSg	 	рек+LocSg	 	0.000000
+
+up+DatPl	 	рек+DatPl	 	0.000000
+
+up+InstPl	 	рек+InstPl	 	0.000000
+
+up+LocPl	 	рек+LocPl	 	0.000000
+

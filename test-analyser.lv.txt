@@ -1,0 +1,387 @@
+Valda	Vald+GenSg	0.000000
+
+Valdi	Vald+AccSg	0.000000
+Valdi	Vald+InstSg	0.000000
+Valdi	Vald+NomPl	0.000000
+
+Valdiem	Vald+DatPl	0.000000
+Valdiem	Vald+InstPl	0.000000
+
+Valdim	Vald+DatSg	0.000000
+
+Valdis	Vald+NomSg	0.000000
+
+Valdos	Vald+LocPl	0.000000
+
+Valdu	Vald+GenPl	0.000000
+
+Valdus	Vald+AccPl	0.000000
+
+Valdī	Vald+LocSg	0.000000
+
+akmeni	akmen+AccSg	0.000000
+akmeni	akmen+InstSg	0.000000
+
+akmenim	akmen+DatSg	0.000000
+
+akmens	akmen+GenSg	0.000000
+akmens	akmen+NomSg	0.000000
+
+akmenī	akmen+LocSg	0.000000
+
+akmeņi	akmen+NomPl	0.000000
+
+akmeņiem	akmen+DatPl	0.000000
+akmeņiem	akmen+InstPl	0.000000
+
+akmeņos	akmen+LocPl	0.000000
+
+akmeņu	akmen+GenPl	0.000000
+
+akmeņus	akmen+AccPl	0.000000
+
+brāli	brāl+AccSg	0.000000
+brāli	brāl+InstSg	0.000000
+
+brālim	brāl+DatSg	0.000000
+
+brālis	brāl+NomSg	0.000000
+
+brālī	brāl+LocSg	0.000000
+
+brāļa	brāl+GenSg	0.000000
+
+brāļi	brāl+NomPl	0.000000
+
+brāļiem	brāl+DatPl	0.000000
+brāļiem	brāl+InstPl	0.000000
+
+brāļos	brāl+LocPl	0.000000
+
+brāļu	brāl+GenPl	0.000000
+
+brāļus	brāl+AccPl	0.000000
+
+ceļa	ceļ+GenSg	0.000000
+
+ceļam	ceļ+DatSg	0.000000
+
+ceļi	ceļ+NomPl	0.000000
+
+ceļiem	ceļ+DatPl	0.000000
+ceļiem	ceļ+InstPl	0.000000
+
+ceļos	ceļ+LocPl	0.000000
+
+ceļu	ceļ+AccSg	0.000000
+ceļu	ceļ+GenPl	0.000000
+ceļu	ceļ+InstSg	0.000000
+
+ceļus	ceļ+AccPl	0.000000
+
+ceļā	ceļ+LocSg	0.000000
+
+ceļš	ceļ+NomSg	0.000000
+
+durvi	durv+AccSg	0.000000
+durvi	durv+InstSg	0.000000
+
+durvij	durv+DatSg	0.000000
+
+durvis	durv+AccPl	0.000000
+durvis	durv+NomPl	0.000000
+
+durvju	durv+GenPl	0.000000
+
+durvs	durv+GenSg	0.000000
+durvs	durv+NomSg	0.000000
+
+durvī	durv+LocSg	0.000000
+
+durvīm	durv+DatPl	0.000000
+durvīm	durv+InstPl	0.000000
+
+durvīs	durv+LocPl	0.000000
+
+galda	gald+GenSg	0.000000
+
+galdam	gald+DatSg	0.000000
+
+galdi	gald+NomPl	0.000000
+
+galdiem	gald+DatPl	0.000000
+galdiem	gald+InstPl	0.000000
+
+galdos	gald+LocPl	0.000000
+
+galds	gald+NomSg	0.000000
+
+galdu	gald+AccSg	0.000000
+galdu	gald+GenPl	0.000000
+galdu	gald+InstSg	0.000000
+
+galdus	gald+AccPl	0.000000
+
+galdā	gald+LocSg	0.000000
+
+istaba	istab+NomSg	0.000000
+
+istabai	istab+DatSg	0.000000
+
+istabas	istab+AccPl	0.000000
+istabas	istab+GenSg	0.000000
+istabas	istab+NomPl	0.000000
+
+istabu	istab+AccSg	0.000000
+istabu	istab+GenPl	0.000000
+istabu	istab+InstSg	0.000000
+
+istabā	istab+LocSg	0.000000
+
+istabām	istab+DatPl	0.000000
+istabām	istab+InstPl	0.000000
+
+istabās	istab+LocPl	0.000000
+
+junga	jung+NomSg	0.000000
+
+jungai	jung+DatSg	0.000000
+
+jungam	jung+GenSg	0.000000
+
+jungas	jung+AccPl	0.000000
+jungas	jung+NomPl	0.000000
+
+jungu	jung+AccSg	0.000000
+jungu	jung+GenPl	0.000000
+jungu	jung+InstSg	0.000000
+
+jungā	jung+LocSg	0.000000
+
+jungām	jung+DatPl	0.000000
+jungām	jung+InstPl	0.000000
+
+jungās	jung+LocPl	0.000000
+
+jūra	jūr+NomSg	0.000000
+
+jūrai	jūr+DatSg	0.000000
+
+jūras	jūr+AccPl	0.000000
+jūras	jūr+GenSg	0.000000
+jūras	jūr+NomPl	0.000000
+
+jūru	jūr+AccSg	0.000000
+jūru	jūr+GenPl	0.000000
+jūru	jūr+InstSg	0.000000
+
+jūrā	jūr+LocSg	0.000000
+
+jūrām	jūr+DatPl	0.000000
+jūrām	jūr+InstPl	0.000000
+
+jūrās	jūr+LocPl	0.000000
+
+loga	log+GenSg	0.000000
+
+logam	log+DatSg	0.000000
+
+logi	log+NomPl	0.000000
+
+logiem	log+DatPl	0.000000
+logiem	log+InstPl	0.000000
+
+logos	log+LocPl	0.000000
+
+logs	log+NomSg	0.000000
+
+logu	log+AccSg	0.000000
+logu	log+GenPl	0.000000
+logu	log+InstSg	0.000000
+
+logus	log+AccPl	0.000000
+
+logā	log+LocSg	0.000000
+
+nakti	nakt+AccSg	0.000000
+nakti	nakt+InstSg	0.000000
+
+naktij	nakt+DatSg	0.000000
+
+naktis	nakt+AccPl	0.000000
+naktis	nakt+NomPl	0.000000
+
+nakts	nakt+GenSg	0.000000
+nakts	nakt+NomSg	0.000000
+
+naktī	nakt+LocSg	0.000000
+
+naktīm	nakt+DatPl	0.000000
+naktīm	nakt+InstPl	0.000000
+
+naktīs	nakt+LocPl	0.000000
+
+nakšu	nakt+GenPl	0.000000
+
+nazi	naz+AccSg	0.000000
+nazi	naz+InstSg	0.000000
+
+nazim	naz+DatSg	0.000000
+
+nazis	naz+NomSg	0.000000
+
+nazī	naz+LocSg	0.000000
+
+naža	naz+GenSg	0.000000
+
+naži	naz+NomPl	0.000000
+
+nažiem	naz+DatPl	0.000000
+nažiem	naz+InstPl	0.000000
+
+nažos	naz+LocPl	0.000000
+
+nažu	naz+GenPl	0.000000
+
+nažus	naz+AccPl	0.000000
+
+nedēļa	nedēļ+NomSg	0.000000
+
+nedēļai	nedēļ+DatSg	0.000000
+
+nedēļas	nedēļ+AccPl	0.000000
+nedēļas	nedēļ+GenSg	0.000000
+nedēļas	nedēļ+NomPl	0.000000
+
+nedēļu	nedēļ+AccSg	0.000000
+nedēļu	nedēļ+GenPl	0.000000
+nedēļu	nedēļ+InstSg	0.000000
+
+nedēļā	nedēļ+LocSg	0.000000
+
+nedēļām	nedēļ+DatPl	0.000000
+nedēļām	nedēļ+InstPl	0.000000
+
+nedēļās	nedēļ+LocPl	0.000000
+
+portfeli	portfel+AccSg	0.000000
+portfeli	portfel+InstSg	0.000000
+
+portfelim	portfel+DatSg	0.000000
+
+portfelis	portfel+NomSg	0.000000
+
+portfelī	portfel+LocSg	0.000000
+
+portfeļa	portfel+GenSg	0.000000
+
+portfeļi	portfel+NomPl	0.000000
+
+portfeļiem	portfel+DatPl	0.000000
+portfeļiem	portfel+InstPl	0.000000
+
+portfeļos	portfel+LocPl	0.000000
+
+portfeļu	portfel+GenPl	0.000000
+
+portfeļus	portfel+AccPl	0.000000
+
+roka	rok+NomSg	0.000000
+
+rokai	rok+DatSg	0.000000
+
+rokas	rok+AccPl	0.000000
+rokas	rok+GenSg	0.000000
+rokas	rok+NomPl	0.000000
+
+roku	rok+AccSg	0.000000
+roku	rok+GenPl	0.000000
+roku	rok+InstSg	0.000000
+
+rokā	rok+LocSg	0.000000
+
+rokām	rok+DatPl	0.000000
+rokām	rok+InstPl	0.000000
+
+rokās	rok+LocPl	0.000000
+
+rūpnīca	rūpnīc+NomSg	0.000000
+
+rūpnīcai	rūpnīc+DatSg	0.000000
+
+rūpnīcas	rūpnīc+AccPl	0.000000
+rūpnīcas	rūpnīc+GenSg	0.000000
+rūpnīcas	rūpnīc+NomPl	0.000000
+
+rūpnīcu	rūpnīc+AccSg	0.000000
+rūpnīcu	rūpnīc+GenPl	0.000000
+rūpnīcu	rūpnīc+InstSg	0.000000
+
+rūpnīcā	rūpnīc+LocSg	0.000000
+
+rūpnīcām	rūpnīc+DatPl	0.000000
+rūpnīcām	rūpnīc+InstPl	0.000000
+
+rūpnīcās	rūpnīc+LocPl	0.000000
+
+suni	sun+AccSg	0.000000
+suni	sun+InstSg	0.000000
+
+sunim	sun+DatSg	0.000000
+
+suns	sun+NomSg	0.000000
+
+sunī	sun+LocSg	0.000000
+
+suņa	sun+GenSg	0.000000
+
+suņi	sun+NomPl	0.000000
+
+suņiem	sun+DatPl	0.000000
+suņiem	sun+InstPl	0.000000
+
+suņos	sun+LocPl	0.000000
+
+suņu	sun+GenPl	0.000000
+
+suņus	sun+AccPl	0.000000
+
+tirgi	tirg+NomPl	0.000000
+
+tirgiem	tirg+DatPl	0.000000
+tirgiem	tirg+InstPl	0.000000
+
+tirgos	tirg+LocPl	0.000000
+
+tirgu	tirg+AccSg	0.000000
+tirgu	tirg+GenPl	0.000000
+tirgu	tirg+InstSg	0.000000
+
+tirgum	tirg+DatSg	0.000000
+
+tirgus	tirg+AccPl	0.000000
+tirgus	tirg+GenSg	0.000000
+tirgus	tirg+NomSg	0.000000
+
+tirgū	tirg+LocSg	0.000000
+
+upe	up+NomSg	0.000000
+
+upei	up+DatSg	0.000000
+
+upes	up+AccPl	0.000000
+upes	up+GenSg	0.000000
+upes	up+NomPl	0.000000
+
+upi	up+AccSg	0.000000
+upi	up+InstSg	0.000000
+
+upju	up+GenPl	0.000000
+
+upē	up+LocSg	0.000000
+
+upēm	up+DatPl	0.000000
+upēm	up+InstPl	0.000000
+
+upēs	up+LocPl	0.000000
+
