@@ -1,0 +1,27 @@
+Nikolay Vorontsov, Project Report. LDA-T302 (2023)
+
+The time and space are limited so I will write briefly. As usually, the aim was higher than the outcome, but I am happy with what how turned out o be at the end.
+
+With this project I wanted to create translator between Russian and Latvian, that would work in tow directions. I concentrated on the nouns, leaving the verbs and adjectives for the future.
+
+I had some ideas to create some new language that would have had features of both Russian and Latvian, but this ideally did not lead anywhere.
+
+It was quite interesting for me to learn more about Latvian grammar, it turned to be rather simple if you have background in Russian, and easy to understand (at least the morphology).
+
+The main issue in nouns is the palatalisation of some consonants. It is solved in my work, much simpler that I thought.
+
+In the Russian language I created a parser for the main substantive declension (the is also adjective declension), and according to some classic grammars, they are seen as nouns too. But they are better to be done together with other adjectives.
+
+In the Russian language, surprisingly all the mophonological changes are in the verbs (vow! I kind of forgot that. As far as a know, it is a feature of the Northern East Slavic languages. Ukranian is different in that aspect. Anyway, the classical o/e-reduction on the end of the last syllable in some of the nouns, was easy and fun to compute. Russian follows phonological writing-system, and it turned out quite good if you want to compute it. There were some rules I had to apply, but not too many. I suppose if taking Latin alphabet as the basis, the paradigms may look little different (because of the already mentioned palatalisation).
+
+I made 2 .xfst grammars and 2 lexicons, 1+1 for each language, and have selected prototypic lexemes to cover the variety. 
+
+I have simplified a little bit the Russian paradigms, not all of the subtypes are included, as they depends a lot also on the accentuation. It would be an enormous work to include them all.
+
+Complex cases like pluralia tantum and lexemes with some irregular alternations in stems are not covered in this project (although I am not sure if there many pf such cases in Latvian).
+
+I have created two analysers in hfst, and two generators. They work perfectly. Also I have created a finite-state translator for the stems.
+
+Unfortunately, it took me hours to figure out how to deal with hfst-tools to get the output properly automated, and I tried-different ways. But semi-automated it works. In the .zip there examples and outputs of those. There are different ways of getting around this, also with python, but I usedsome command line tools like sed for testing (not bug-free although).
+
+It would be nice to get a little bit more acquainted with the hfst to use all of its features, but let's leave that for the future.

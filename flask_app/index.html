@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translator</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 40vh;
+            margin: 0;
+            background-color: #f8f8f8;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        form {
+            margin-bottom: 20px;
+        }
+
+        translationResult {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>A Finite-State Translator for Latvian and Russian nouns:</h1>
+        <form id="translationForm">
+            <label for="word">Enter a noun:</label>
+            <input type="text" id="word" name="word">
+	    <button type="button">Translate</button>
+	<p>
+	    <label for="id">Translated from:</label>
+            <select id="languageSelect">
+                <option value="latvian">Latvian</option>
+                <option value="russian">Russian</option>
+            </select>
+	</p>
+        </form>
+        <div id="translationResult"></div>
+    </div>
+
+    <script>
+        document.getElementById("translationForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            const word = document.getElementById("word").value.trim();
+            const language = document.getElementById("languageSelect").value;
+            if (word !== "") {
+                fetch(`/translate?word=${word}&lang=${language}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        document.getElementById("translationResult").innerText = `Translation: ${data.translation}`;
+                    })
+                    .catch(error => console.error('Error:', error));
+            }
+        });
+    </script>
+</body>
+</html>
